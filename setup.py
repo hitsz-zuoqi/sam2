@@ -55,7 +55,7 @@ EXTRA_PACKAGES = {
         "ufmt==2.0.0b2",
         "fvcore>=0.1.5.post20221221",
         "pandas>=2.2.2",
-        "scikit-image>=0.24.0",
+        "scikit-image>=0.22.0",
         "tensorboard>=2.17.0",
         "pycocotools>=2.0.8",
         "tensordict>=0.6.0",
